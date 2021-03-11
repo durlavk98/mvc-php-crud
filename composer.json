@@ -1,0 +1,15 @@
+{
+    "name": "durlav/mvc-php-crud",
+    "authors": [
+        {
+            "name": "durlavk98",
+            "email": "durlavk98@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
